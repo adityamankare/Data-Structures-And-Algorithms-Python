@@ -14,5 +14,5 @@ def segregateEvenOdd(arr):
 
 print(segregateEvenOdd([12, 34, 45, 9, 8, 90, 3]))
 
-O(n) time
-O(1) space
+#O(n) time
+#O(1) space
